@@ -1,0 +1,10 @@
+﻿  matrici_mai_complicate.cpp
+C:\Users\TB's desktop\Desktop\Upper School\Visual Studio projects\matrici_mai_complicate\matrici_mai_complicate.cpp(14,26): warning C4307: '*': signed integral constant overflow
+C:\Users\TB's desktop\Desktop\Upper School\Visual Studio projects\matrici_mai_complicate\matrici_mai_complicate.cpp(14,48): warning C4307: '*': signed integral constant overflow
+C:\Users\TB's desktop\Desktop\Upper School\Visual Studio projects\matrici_mai_complicate\matrici_mai_complicate.cpp(14,70): warning C4307: '*': signed integral constant overflow
+  Generating code
+  8 of 9 functions (88.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  matrici_mai_complicate.vcxproj -> C:\Users\TB's desktop\Desktop\Upper School\Visual Studio projects\matrici_mai_complicate\Release\matrici_mai_complicate.exe

@@ -1,0 +1,22 @@
+int n, a, b, i_max = 0, x
+bool correct = adevarat
+
+pentru int i = 0; i < n; i++
+	daca correct == adevarat
+		citim x
+		a = 0
+		b = 0
+		cat timp x == '('
+			a++
+		cat timp x == ')'
+			b++
+		daca b > a
+			correct = fals
+		altfel
+			daca b > i_max	
+				i_max == b;
+
+daca corect == fals
+	cout<<"NU"
+altfel
+	cout<<"DA"<<'  '<<i_max

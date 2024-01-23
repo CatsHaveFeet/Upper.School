@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1701279636 source:c:\users\tb's desktop\desktop\upper school\codeblocks projects\smthsmth\main.cpp
+	<iostream>
+	<fstream>
+	<cstring>
+	<algorithm>
+
